@@ -1,0 +1,2 @@
+# rustlang-guessing-game-tutorial
+following the tutorial at https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
